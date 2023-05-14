@@ -32,7 +32,7 @@
 
 <section>
 		<h2>Usage</h2>
-		<p>To start using the Desktop Assistant, simply speak or type your question or command and the AI will provide a response. Some examples of things you can ask the assistant include:</p>
+		<p>To start using VisionAI, simply speak or type your question or command and the AI will provide a response. Some examples of things you can ask the assistant include:</p>
 		<ul>
 			<li>"What's the weather like today?"</li>
 			<li>"Set a reminder for my meeting at 2pm"</li>
