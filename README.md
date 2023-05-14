@@ -30,7 +30,7 @@
 		</ol>
 	</section>
 
-	<section>
+<section>
 		<h2>Usage</h2>
 		<p>To start using the Desktop Assistant, simply speak or type your question or command and the AI will provide a response. Some examples of things you can ask the assistant include:</p>
 		<ul>
@@ -38,7 +38,7 @@
 			<li>"Set a reminder for my meeting at 2pm"</li>
 			<li>"Play some music for me"</li>
 		</ul>
-		<p>VisianAI can also be customized to suit your preferences by modifying the code in the main.py file.</p>
+		<p>VisianAI can also be customized to suit your preferences by modifying the code in the main.py file.</p> 
   </section>
   <section>
 <h2>Credits</h2>
