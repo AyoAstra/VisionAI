@@ -26,7 +26,7 @@
 			<li>Clone the repository to your local machine.</li>
 			<li>Install the required dependencies by running <code>pip install -r requirements.txt</code>.</li>
 			<li>Set up your OpenAI API key by following the instructions in the OpenAI API documentation.</li>
-			<li>Run the program using the command <code>python desktop_assistant.py</code>.</li>
+			<li>Run the program using the command <code>python main.py</code>.</li>
 		</ol>
 	</section>
 
