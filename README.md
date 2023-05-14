@@ -1,66 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Vision AI</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			background-color: #f5f5f5;
-			color: #333;
-			margin: 0;
-			padding: 0;
-		}
-	header {
-		background-color: #333;
-		color: #fff;
-		padding: 20px;
-		text-align: center;
-	}
-
-	h1 {
-		font-size: 36px;
-		margin-bottom: 0;
-	}
-
-	h2 {
-		font-size: 24px;
-		margin-top: 0;
-	}
-
-	p {
-		font-size: 18px;
-		line-height: 1.5;
-		margin-bottom: 20px;
-	}
-
-	ul {
-		font-size: 18px;
-		line-height: 1.5;
-		margin-bottom: 20px;
-		padding-left: 40px;
-	}
-
-	code {
-		background-color: #eee;
-		border-radius: 4px;
-		padding: 0 5px;
-	}
-
-	section {
-		background-color: #fff;
-		border-radius: 4px;
-		box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-		margin-bottom: 40px;
-		padding: 20px;
-	}
-
-	footer {
-		background-color: #333;
-		color: #fff;
-		padding: 20px;
-		text-align: center;
-	}
-</style>
 </head>
 <body>
 	<header>
@@ -99,11 +39,12 @@
 			<li>"Play some music for me"</li>
 		</ul>
 		<p>VisianAI can also be customized to suit your preferences by modifying the code in the main.py file.</p>
+  </section>
   <section>
 <h2>Credits</h2>
 <p>This project was created by AyoAstra. Special thanks to OpenAI for providing the GPT-3 model that powers VisionAI.</p>
   <section>
     <h2>Licence</h2>
     <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
-  <section>
+  </section>
 
